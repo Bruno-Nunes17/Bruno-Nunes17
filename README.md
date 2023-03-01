@@ -1,16 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84dbd6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8Bsize=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Bruno+Nunes;I'm+21+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=84dbd6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Bruno+Nunes;I'm+21+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bruno-Nunes17&bg_color=000000&color=6fcbd8&line=84dbd6&point=2a88df&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bruno-Nunes17&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bruno-Nunes17&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bruno-Nunes17&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=483D8B&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Nunes github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bruno-Nunes17&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=84dbd6&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Nunes github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Nunes17&layout=compact&hide_border=true&title_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
@@ -45,5 +45,5 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84dbd6&height=120&section=footer"/>
 
